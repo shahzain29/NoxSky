@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071709099648",
+    "project_id": "nox-sky-be6b8",
+    "storage_bucket": "nox-sky-be6b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071709099648:android:438fd009eac8a2d1803865",
+        "android_client_info": {
+          "package_name": "com.noxsky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071709099648-5fhmf05vim30d27rrd006qkqhgphien0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOJrPEZMg12CrwRroD7_bug1dA2SxLzOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071709099648-5fhmf05vim30d27rrd006qkqhgphien0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

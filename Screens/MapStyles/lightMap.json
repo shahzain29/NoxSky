@@ -1,0 +1,167 @@
+{
+    "name": "MapServer",
+    "contents": {
+      "currentVersion": 10.22,
+      "serviceDescription": "",
+      "mapName": "Map3",
+      "description": "",
+      "copyrightText": "",
+      "supportsDynamicLayers": false,
+      "layers": [
+        {
+          "id": 0,
+          "name": "ArtificialSkyBrightness",
+          "parentLayerId": -1,
+          "defaultVisibility": true,
+          "subLayerIds": null,
+          "minScale": 0,
+          "maxScale": 0
+        }
+      ],
+      "tables": [
+        
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      },
+      "singleFusedMapCache": false,
+      "initialExtent": {
+        "xmin": -22041257.116236094,
+        "ymin": -9820808.7133807093,
+        "xmax": 22041242.174872335,
+        "ymax": 21463441.284159981,
+        "spatialReference": {
+          "wkid": 102100,
+          "latestWkid": 3857
+        }
+      },
+      "fullExtent": {
+        "xmin": -20037507.148458436,
+        "ymin": -8398797.3498561308,
+        "xmax": 20037492.207094677,
+        "ymax": 20041429.920635402,
+        "spatialReference": {
+          "wkid": 102100,
+          "latestWkid": 3857
+        }
+      },
+      "units": "esriMeters",
+      "supportedImageFormatTypes": "PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP",
+      "documentInfo": {
+        "Title": "",
+        "Author": "",
+        "Comments": "",
+        "Subject": "",
+        "Category": "",
+        "AntialiasingMode": "Best",
+        "TextAntialiasingMode": "Force",
+        "Keywords": ""
+      },
+      "capabilities": "Map,Query,Data",
+      "supportedQueryFormats": "JSON, AMF",
+      "exportTilesAllowed": false,
+      "maxRecordCount": 1000,
+      "maxImageHeight": 4096,
+      "maxImageWidth": 4096,
+      "minScale": 591657527.591555,
+      "maxScale": 1155581.108577
+    },
+    "resourceInfo": {
+      "geoFullExtent": {
+        "xmin": -179.99998927114385,
+        "ymin": -59.995775223126209,
+        "xmax": 179.9998550505895,
+        "ymax": 85.054166865359434
+      },
+      "spatialReferenceDomain": {
+        "xmin": -22041257.116236094,
+        "ymin": -30241100,
+        "xmax": 40444499.999999985,
+        "ymax": 32244657.116236083
+      },
+      "geoInitialExtent": {
+        "xmin": -179.99999550841463,
+        "ymin": -65.794429168287607,
+        "xmax": 179.99999550841463,
+        "ymax": 86.041687085972072
+      }
+    },
+    "resources": [
+      {
+        "name": "layers",
+        "resources": [
+          {
+            "name": "0",
+            "contents": {
+              "currentVersion": 10.22,
+              "id": 0,
+              "name": "ArtificialSkyBrightness",
+              "type": "Raster Layer",
+              "description": "",
+              "geometryType": null,
+              "copyrightText": "",
+              "parentLayer": null,
+              "subLayers": [
+                
+              ],
+              "minScale": 0,
+              "maxScale": 0,
+              "defaultVisibility": true,
+              "extent": {
+                "xmin": -20037507.148458436,
+                "ymin": -8398797.3498561308,
+                "xmax": 20037492.207094677,
+                "ymax": 20041429.920635402,
+                "spatialReference": {
+                  "wkid": 102100,
+                  "latestWkid": 3857
+                }
+              },
+              "hasAttachments": false,
+              "htmlPopupType": "esriServerHTMLPopupTypeNone",
+              "displayField": "",
+              "typeIdField": null,
+              "fields": null,
+              "relationships": [
+                
+              ],
+              "canModifyLayer": false,
+              "canScaleSymbols": false,
+              "hasLabels": false,
+              "capabilities": "Map,Query",
+              "supportsStatistics": false,
+              "supportsAdvancedQueries": false,
+              "supportedQueryFormats": "JSON, AMF",
+              "ownershipBasedAccessControlForFeatures": {
+                "allowOthersToQuery": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "tables",
+        "resources": [
+          
+        ]
+      },
+      {
+        "name": "legend",
+        "contents": {
+          "layers": [
+            {
+              "layerId": 0,
+              "layerName": "ArtificialSkyBrightness",
+              "layerType": "Raster Layer",
+              "minScale": 0,
+              "maxScale": 0,
+              "legend": [
+                
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
